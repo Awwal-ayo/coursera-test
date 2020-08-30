@@ -5,8 +5,12 @@
     color: rgb(46, 45, 45);
     font-size: 16px;
   }
+  body {
+      background-color: rgb(235, 229, 217);
+  }
   h1 {
-    margin-bottom: 2em;
+    margin-bottom: 1.0em;
+    margin-top: 1.2em;
     width: 5em;
     margin-left: auto;
     margin-right: auto;
@@ -30,12 +34,15 @@
   }
   #section-title1 {
     background-color: #E9C46A;
+    color: rgb(7, 7, 7);
   }
   #section-title2 {
     background-color: #F4A261;
+    color: rgb(7, 7, 7);
 }
   #section-title3 {
     background-color: #E76F51;
+    color: rgb(7, 7, 7);
 }
   
   .section-title {
